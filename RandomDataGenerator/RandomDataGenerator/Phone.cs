@@ -31,6 +31,7 @@
 
         public string Format(char separator='-')
         {
+            // Default format: ###-###-####, otherwise ###{sep}###{sep}####
             return $"{this.Number.Substring(0, 3)}{separator}{this.Number.Substring(3,3)}{separator}{this.Number.Substring(6,4)}";
         }
     }

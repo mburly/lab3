@@ -4,6 +4,7 @@
     {
         static int PrintMenu()
         {
+            // Print main menu and get user's selection
             Console.WriteLine("Welcome to the Lab 3 Program");
             Console.WriteLine("Please select one of the following options:");
             Console.WriteLine("1. Create a Person object");

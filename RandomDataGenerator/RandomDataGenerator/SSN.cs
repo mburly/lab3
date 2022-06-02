@@ -29,6 +29,7 @@
 
         public override string ToString()
         {
+            // SSN in format: ###-##-####
             return $"{this.Number.Substring(0,3)}-{this.Number.Substring(3, 2)}-{this.Number.Substring(5)}";
         }
     }
