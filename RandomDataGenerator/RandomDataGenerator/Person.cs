@@ -86,7 +86,7 @@
        public void AddDependent()
         {
             Dependent d = new Dependent();
-            _dependents[_dependents.Length] = d;
+            this._dependents[_dependents.Length] = d;
 
         }
 
