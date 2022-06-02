@@ -1,0 +1,15 @@
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\bin\Debug\net6.0\RandomDataGenerator.exe
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\bin\Debug\net6.0\RandomDataGenerator.deps.json
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\bin\Debug\net6.0\RandomDataGenerator.runtimeconfig.json
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\bin\Debug\net6.0\RandomDataGenerator.dll
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\bin\Debug\net6.0\RandomDataGenerator.pdb
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.AssemblyInfo.cs
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.dll
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\refint\RandomDataGenerator.dll
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.pdb
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\RandomDataGenerator.genruntimeconfig.cache
+C:\Users\Michael\Desktop\lab3\RandomDataGenerator\RandomDataGenerator\obj\Debug\net6.0\ref\RandomDataGenerator.dll
